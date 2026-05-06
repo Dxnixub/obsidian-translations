@@ -1,2 +1,3 @@
 # obsidian-translations
-My Obsidian plugin translations (created by obsidian-i18n)
+
+章鱼大王翻译Obsidian插件
