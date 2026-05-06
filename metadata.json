@@ -24,5 +24,18 @@
         "created_at": "2026-05-06T02:50:41.171Z",
         "updated_at": "2026-05-06T02:50:41.171Z",
         "type": "plugin"
+    },
+    {
+        "id": "wE5DXjTw9Ski9bmZHrVdotHqwwpN95C0",
+        "plugin": "media-extended",
+        "language": "zh-cn",
+        "version": "4.2.0",
+        "supported_versions": "4.2.0",
+        "title": "[zh-cn] Media Extended",
+        "description": "章鱼大王-媒体扩展本地化与微调优化",
+        "hash": "47907e7947907e7947907e7947907e79",
+        "created_at": "2026-05-06T04:05:30.125Z",
+        "updated_at": "2026-05-06T04:05:30.125Z",
+        "type": "plugin"
     }
 ]
