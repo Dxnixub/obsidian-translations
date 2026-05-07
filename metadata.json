@@ -1,54 +1,41 @@
 [
-    {
-        "id": "lJW-Nzb661hmTlqav1UbLUizO5JeBxH2",
-        "plugin": "aqu-blur-mode",
-        "language": "zh-cn",
-        "version": "1.0.5",
-        "supported_versions": "1.0.5",
-        "title": "[zh-cn] Blur Mode",
-        "description": "虚化任意内容，保护你的隐私。",
-        "hash": "633634a5633634a5633634a5633634a5",
-        "created_at": "2026-05-06T01:59:30.323Z",
-        "updated_at": "2026-05-06T01:59:30.323Z",
-        "type": "plugin"
-    },
-    {
-        "id": "_uulwBvqMZLUD8NQosaP0rNFPif4Lh-i",
-        "plugin": "homepage",
-        "language": "zh-cn",
-        "version": "4.4.0",
-        "supported_versions": "4.4.0",
-        "title": "[zh-cn] Homepage",
-        "description": "章鱼大王完全汉化版，主页本地化与细节微调",
-        "hash": "29bde72229bde72229bde72229bde722",
-        "created_at": "2026-05-06T02:50:41.171Z",
-        "updated_at": "2026-05-06T02:50:41.171Z",
-        "type": "plugin"
-    },
-    {
-        "id": "wE5DXjTw9Ski9bmZHrVdotHqwwpN95C0",
-        "plugin": "media-extended",
-        "language": "zh-cn",
-        "version": "4.2.0",
-        "supported_versions": "4.2.0",
-        "title": "[zh-cn] Media Extended",
-        "description": "章鱼大王-媒体扩展本地化与微调优化",
-        "hash": "47907e7947907e7947907e7947907e79",
-        "created_at": "2026-05-06T04:05:30.125Z",
-        "updated_at": "2026-05-06T04:05:30.125Z",
-        "type": "plugin"
-    },
-    {
-        "id": "h0lnXYAMnOBAOrkp2igH_DK-Co57QVzZ",
-        "plugin": "homepage",
-        "language": "zh-cn",
-        "version": "4.4.0",
-        "supported_versions": "4.4.0",
-        "title": "[章鱼大王汉化版]Homepage",
-        "description": "Homepage Localization & Tweaks",
-        "hash": "6b34961d6b34961d6b34961d6b34961d",
-        "created_at": "2026-05-07T06:26:55.078Z",
-        "updated_at": "2026-05-07T06:26:55.078Z",
-        "type": "plugin"
-    }
+  {
+    "id": "lJW-Nzb661hmTlqav1UbLUizO5JeBxH2",
+    "plugin": "aqu-blur-mode",
+    "language": "zh-cn",
+    "version": "1.0.5",
+    "supported_versions": "1.0.5",
+    "title": "[zh-cn] Blur Mode",
+    "description": "虚化任意内容，保护你的隐私。",
+    "hash": "633634a5633634a5633634a5633634a5",
+    "created_at": "2026-05-06T01:59:30.323Z",
+    "updated_at": "2026-05-06T01:59:30.323Z",
+    "type": "plugin"
+  },
+  {
+    "id": "_uulwBvqMZLUD8NQosaP0rNFPif4Lh-i",
+    "plugin": "homepage",
+    "language": "zh-cn",
+    "version": "4.4.0",
+    "supported_versions": "4.4.0",
+    "title": "[zh-cn] Homepage",
+    "description": "章鱼大王完全汉化版，主页本地化与细节微调",
+    "hash": "29bde72229bde72229bde72229bde722",
+    "created_at": "2026-05-06T02:50:41.171Z",
+    "updated_at": "2026-05-06T02:50:41.171Z",
+    "type": "plugin"
+  },
+  {
+    "id": "h0lnXYAMnOBAOrkp2igH_DK-Co57QVzZ",
+    "plugin": "homepage",
+    "language": "zh-cn",
+    "version": "4.4.0",
+    "supported_versions": "4.4.0",
+    "title": "[章鱼大王汉化版]Homepage",
+    "description": "Homepage Localization & Tweaks",
+    "hash": "6b34961d6b34961d6b34961d6b34961d",
+    "created_at": "2026-05-07T06:26:55.078Z",
+    "updated_at": "2026-05-07T06:26:55.078Z",
+    "type": "plugin"
+  }
 ]
