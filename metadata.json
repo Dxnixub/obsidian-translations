@@ -1,18 +1,5 @@
 [
   {
-    "id": "lJW-Nzb661hmTlqav1UbLUizO5JeBxH2",
-    "plugin": "aqu-blur-mode",
-    "language": "zh-cn",
-    "version": "1.0.5",
-    "supported_versions": "1.0.5",
-    "title": "[zh-cn] Blur Mode",
-    "description": "虚化任意内容，保护你的隐私。",
-    "hash": "633634a5633634a5633634a5633634a5",
-    "created_at": "2026-05-06T01:59:30.323Z",
-    "updated_at": "2026-05-06T01:59:30.323Z",
-    "type": "plugin"
-  },
-  {
     "id": "_uulwBvqMZLUD8NQosaP0rNFPif4Lh-i",
     "plugin": "homepage",
     "language": "zh-cn",
